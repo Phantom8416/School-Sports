@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>School Sports</title>
+    <style>
+        body {
+            background-color: #f0f8ff; /* Appropriate background color */
+            font-family: 'Times New Roman', Times, serif; /* Font family for paragraphs */
+        }
+        h1 {
+            text-align: center; /* Center the heading */
+        }
+        p {
+            color: blue; /* Font color for paragraphs */
+            font-weight: bold; /* Bold formatting for paragraphs */
+        }
+        .image-container {
+            text-align: center; /* Center the images */
+        }
+        img {
+            width: 300px; /* Adjust the image width */
+            height: auto; /* Maintain the aspect ratio */
+            margin: 10px; /* Add some space around the images */
+        }
+    </style>
+</head>
+<body>
+    <h1>Welcome to Our School Sports</h1>
+
+    <p>Football is one of the most popular sports in our school. It is played by two teams of eleven players each. The objective is to score by getting the ball into the opposing goal. Football fosters teamwork and physical fitness among students.</p>
+
+    <p>Basketball is another favorite sport in our school. Played by two teams of five players each, the game is fast-paced and exciting. The aim is to score points by shooting the ball through the opponent's hoop. Basketball helps develop agility and coordination.</p>
+
+    <div class="image-container">
+        <img src="football.jpg" alt="Football">
+        <img src="basketball.jpg" alt="Basketball">
+    </div>
+</body>
+</html>
+
+
